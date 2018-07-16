@@ -26,4 +26,5 @@ class User extends Authenticatable
     protected $hidden = [
         'password', 'remember_token',
     ];
+    // Test Chuc Nang Github Nhu the nao
 }
